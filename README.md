@@ -1,35 +1,38 @@
-# 💫 About Me:
-# Akram Atassi
+# Hi, I'm Akram
 
-**Computer Science @ GWU | AI Tools & Data Projects**
+CS and Finance student at George Washington University. I'd rather build the thing than talk about building the thing, and most of what I know I picked up by shipping something that broke first.
 
-I'm building tools and systems that solve real problems. Currently exploring AI applications, data pipelines, and full-stack development.
+Right now I'm a software engineering intern at **[Mishwar](https://www.mishwarsyria.com)**, a food-court startup in Syria. I built their website and a full point-of-sale system from scratch to replace a setup that was running ten vendors on pen and paper: ordering, kiosks, a live floor view, and per-vendor sales reports at close.
 
-## Certifications & Focus
-- **AI Fluency for Students** (Anthropic, March 2026)
-- **Introduction to Claude Cowork** (Anthropic, March 2026)
-- **DevOps Foundations** (Microsoft Learning, November 2025)
+I work with AI tools every day for real work, not demos. Anthropic-certified in AI Fluency and Claude Cowork. Grew up in Beirut, trilingual in Arabic, English, and French.
 
-Trilingual (Arabic, English, French). Experience with Python, Java, JavaScript, and statistical analysis.
+### What I work with
 
-## Current Work
-- **Basketball Scout** at TxOdds — real-time player performance analysis and data-driven reporting
-- **Windows Insider Tester** — QA contributor to pre-release builds shipped to millions of users
-- **GW International Students Association** — Internal Vice President
+![Java](https://img.shields.io/badge/Java-444444?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-444444?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-444444?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-444444?style=flat-square&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-444444?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-444444?style=flat-square&logo=intellijidea&logoColor=white)
 
-## What's Here
-This space tracks active projects in CS fundamentals, AI applications, and portfolio-building work. You'll find clean documentation, reproducible examples, and full-stack implementations.
+### A bit more
 
----
+- Studying Computer Science **and** Finance. I added Finance after realizing at Mishwar that I cared as much about which stalls made money as I did about the code.
+- Former varsity basketball captain. Still competitive about basically everything.
+- Windows Insider, so I get to break pre-release builds before everyone else does.
 
-**Let's build something useful.** [GitHub](https://github.com/akramatassi) · [LinkedIn](https://linkedin.com) · akramatassi07@gmail.com
+### GitHub
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akram-atassi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akram-atassi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akram-atassi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akram-Atassi&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&count_private=true" alt="Akram's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akram-Atassi&hide_border=true&theme=graywhite" alt="Akram's streak" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akram-atassi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akram-Atassi&layout=compact&hide_border=true&theme=graywhite&langs_count=8" alt="Top languages" />
+</p>
+
+### Reach me
+
+[Portfolio](https://github.com/Akram-Atassi) · [LinkedIn](https://www.linkedin.com/in/akramatassi) · akramatassi07@gmail.com
