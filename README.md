@@ -1,6 +1,6 @@
 # Hi, I'm Akram
 
-CS and Finance student at George Washington University.
+CS and Finance student at George Washington University. I'd rather build the thing than talk about building the thing, and most of what I know I learned by shipping real projects.
 
 Right now I'm a software engineering intern at **[Mishwar](https://www.mishwarsyria.com)**, a food-court startup in Syria. I built their website and a full point-of-sale system from scratch to replace a setup that was running ten vendors on pen and paper: ordering, kiosks, a live floor view, and per-vendor sales reports at close.
 
@@ -24,6 +24,8 @@ I work with AI tools every day for real work, not demos. Anthropic-certified in 
 
 ### GitHub
 
+![Profile views](https://komarev.com/ghpvc/?username=Akram-Atassi&style=flat-square&color=444444&label=Profile+views)
+
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akram-Atassi&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&count_private=true" alt="Akram's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akram-Atassi&hide_border=true&theme=graywhite" alt="Akram's streak" />
@@ -32,6 +34,21 @@ I work with AI tools every day for real work, not demos. Anthropic-certified in 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akram-Atassi&layout=compact&hide_border=true&theme=graywhite&langs_count=8" alt="Top languages" />
 </p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akram-Atassi&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akram-Atassi&hide_border=true&area=true&bg_color=ffffff&color=333333&line=444444&point=000000&title_color=000000" alt="Contribution activity graph" />
+</p>
+
+<details>
+  <summary>More stats</summary>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akram-Atassi&theme=default&utcOffset=-5" alt="Most productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akram-Atassi&theme=default" alt="Repos per language" />
+</details>
 
 ### Reach me
 
