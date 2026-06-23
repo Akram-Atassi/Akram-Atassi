@@ -1,6 +1,6 @@
 # Hi, I'm Akram
 
-CS and Finance student at George Washington University. I'd rather build the thing than talk about building the thing, and most of what I know I picked up by shipping something that broke first.
+CS and Finance student at George Washington University.
 
 Right now I'm a software engineering intern at **[Mishwar](https://www.mishwarsyria.com)**, a food-court startup in Syria. I built their website and a full point-of-sale system from scratch to replace a setup that was running ten vendors on pen and paper: ordering, kiosks, a live floor view, and per-vendor sales reports at close.
 
