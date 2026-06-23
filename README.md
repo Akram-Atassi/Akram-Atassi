@@ -36,10 +36,6 @@ I work with AI tools every day for real work, not demos. Anthropic-certified in 
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akram-Atassi&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akram-Atassi&hide_border=true&area=true&bg_color=ffffff&color=333333&line=444444&point=000000&title_color=000000" alt="Contribution activity graph" />
 </p>
 
