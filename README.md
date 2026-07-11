@@ -33,7 +33,7 @@ I work with AI tools every day for real work, not demos. Anthropic-certified in 
 <details>
   <summary>More stats</summary>
   <br/>
-  <img src="./github-metrics-habits.svg" alt="Coding habits and most productive time of day" />
+  <img src="./github-metrics-achievements.svg" alt="GitHub achievements" />
 </details>
 
 ### Reach me
