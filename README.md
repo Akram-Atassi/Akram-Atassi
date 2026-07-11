@@ -27,23 +27,13 @@ I work with AI tools every day for real work, not demos. Anthropic-certified in 
 ![Profile views](https://komarev.com/ghpvc/?username=Akram-Atassi&style=flat-square&color=444444&label=Profile+views)
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akram-Atassi&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&count_private=true" alt="Akram's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akram-Atassi&hide_border=true&theme=graywhite" alt="Akram's streak" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akram-Atassi&layout=compact&hide_border=true&theme=graywhite&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akram-Atassi&hide_border=true&area=true&bg_color=ffffff&color=333333&line=444444&point=000000&title_color=000000" alt="Contribution activity graph" />
+  <img src="./github-metrics.svg" alt="Akram's GitHub stats, contribution calendar and top languages" />
 </p>
 
 <details>
   <summary>More stats</summary>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akram-Atassi&theme=default&utcOffset=-5" alt="Most productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akram-Atassi&theme=default" alt="Repos per language" />
+  <img src="./github-metrics-habits.svg" alt="Coding habits and most productive time of day" />
 </details>
 
 ### Reach me

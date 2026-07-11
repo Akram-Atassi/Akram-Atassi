@@ -1,0 +1,65 @@
+name: Metrics
+
+# Generates static stat images and commits them into this repo, so the README
+# never depends on a live third-party rendering service at view time.
+on:
+  # Refresh once a day.
+  schedule:
+    - cron: "0 6 * * *"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+  # Regenerate whenever the workflow itself or the README changes.
+  push:
+    branches:
+      - main
+      - "claude/**"
+    paths:
+      - ".github/workflows/metrics.yml"
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Main card: overview stats, a full-year contribution calendar (this also
+      # carries the current/longest streak), and top languages.
+      - name: Overview, activity calendar and languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # Optional: add a personal access token as the METRICS_TOKEN secret to
+          # include private contributions. Falls back to the built-in token so
+          # the workflow still works with zero setup.
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: Akram-Atassi
+          template: classic
+          base: header
+          config_timezone: America/New_York
+          plugins_errors_fatal: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          output_action: commit
+
+      # "More stats" card: coding habits and most productive time of day.
+      - name: Habits and productive time
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-habits.svg
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: Akram-Atassi
+          template: classic
+          base: ""
+          config_timezone: America/New_York
+          plugins_errors_fatal: no
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          output_action: commit
