@@ -30,12 +30,6 @@ I work with AI tools every day for real work, not demos. Anthropic-certified in 
   <img src="./github-metrics.svg" alt="Akram's GitHub stats, contribution calendar and top languages" />
 </p>
 
-<details>
-  <summary>More stats</summary>
-  <br/>
-  <img src="./github-metrics-achievements.svg" alt="GitHub achievements" />
-</details>
-
 ### Reach me
 
 [Portfolio](https://github.com/Akram-Atassi) · [LinkedIn](https://www.linkedin.com/in/akramatassi) · akramatassi07@gmail.com
